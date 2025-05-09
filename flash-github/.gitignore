@@ -1,0 +1,47 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+wheels/
+*.egg-info/
+*.egg
+.env
+uv.lock
+
+# Virtual environments
+.venv
+venv/
+ENV/
+env/
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.spyderproject
+.spyproject
+.ropeproject
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Mypy cache
+.mypy_cache/
+
+# Distribution / packaging
+MANIFEST
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
