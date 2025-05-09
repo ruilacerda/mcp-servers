@@ -1,0 +1,3 @@
+mcp
+pygithub
+python-dotenv
