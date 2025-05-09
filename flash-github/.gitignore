@@ -45,3 +45,6 @@ MANIFEST
 
 # Windows specific
 Thumbs.db
+
+# Git
+.git/
