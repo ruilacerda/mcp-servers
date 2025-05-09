@@ -29,7 +29,6 @@ The Flash MCP family will be expanding to include the following servers:
 - **flash-obsidian-rest**: REST API server for Obsidian note integration
 - **flash-utils**: Common utility services and shared functionality
 - **flash-youtube**: YouTube API integration server
-- **weather**: Weather data integration server
 
 ## Getting Started
 
